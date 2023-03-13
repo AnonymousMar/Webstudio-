@@ -1,0 +1,46 @@
+@media screen and  (min-width:428px) and (max-width:767px) {
+    .container{
+        max-width: 428px;
+       }
+       .team-title>.container{
+        max-width: 294px;
+       }
+       .footer-container>.container{
+        max-width: 264px;
+       }
+       .foto-text0{
+        display: none;
+       }
+       .studio-footer{
+        text-align: left;
+    }
+    .div{
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .mob-menu-link1{
+        font-size: 36px;
+        line-height:calc(40/36);
+        }
+    .social-mob-menu {
+        gap: 64px;
+    }
+    .team-title-foto{
+       width: 396px;
+    }
+    .solutions-title{
+        width:320px;
+    }
+    .email{
+        width: 396px;
+    }
+    .modal{
+        width: 408px;
+    }
+    .modal-coment{
+        width: 360px;
+        }
+       .box-icone2{ 
+        justify-content: center;
+    }
+    }
